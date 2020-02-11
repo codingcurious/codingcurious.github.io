@@ -5,9 +5,10 @@ Hello, hello! This is a central repository for notes, resources, projects, ideas
 ## Meetups
 <details>
   <summary>Notes from past meetups</summary>
-  | Meetup                   | Date | Notes | 
-  | -----------------------  | ---- | ----- |
-  | [First]() | Feb 10, 2010  | link | 
+  
+  | Meetup                   | Date          | Notes | 
+  | -----------------------  | ------------- | ----- |
+  | [First]()                | Feb 10, 2010  | link  | 
 
 </details>
 
