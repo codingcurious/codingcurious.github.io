@@ -6,8 +6,10 @@ Hello, hello! This is a central repository for notes, resources, projects, ideas
 <details>
   <summary>Notes from past meetups</summary>
   | Meetup                   | Date | Notes | 
-| ------------------------------------------------------------------------------------ | ----------- | ------------- | -------------            |
-| [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) | **CM1035**  | **Yes**       | `#cm1035-algos-data-i`   |
+  | -----------------------  | ---- | ----- |
+  | [First]() | Feb 10, 2010  | link | 
+
 </details>
+
 ## Resoucre Collections
 ## Website
