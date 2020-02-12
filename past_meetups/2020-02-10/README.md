@@ -12,39 +12,44 @@ Overall a very interesting and colorful group of individuals. We had not one, bu
 
 ## How are people learning? ##
 
-1. Online resources
+1. **Online resources**
 
-Free and easy introductions for complete beginners were mentioned: 
-FreeCodeCamp (HTML, CSS, JavaScript)
-CodeAcademy (Python)
-Youtube tutorials (no concrete courses were mentioned, but if you have some you really enjoyed, please do share)
+... Free and easy introductions for complete beginners were mentioned:   
+... * [FreeCodeCamp](https://www.freecodecamp.org/) (HTML, CSS, JavaScript)
+... * [CodeAcademy](https://www.codecademy.com/) (Python was mentioned, there's other languages also. Some content free, some paid)
+... * Youtube tutorials (no concrete courses were mentioned, but if you have some you really enjoyed, please do share)
+... * [Harward's Introduction to Computer Science](https://cs50.harvard.edu/x/2020/) (this one is not the easiest introduction course, but it's worth it based on the stellar reviews it gets)
+... ... first lesson of CS50 includes intro to the playful [Scratch](https://scratch.mit.edu/) platform by MIT
+... * [Teach Yourself Computer Science](https://teachyourselfcs.com/) (a collection of free online books and videos for those who are interested in a broader computer science knowledge base than pure programming)
 
-Not free, but often very cheap:
-Udemy (courses often availabe on discount for $10)
-There is a lot of stuff on Udemy, and sometimes hard to pick the right course. If in doubt, the attendees warmly recommended courses by Colt Steele. 
+... Not free, but often very cheap:  
+... * [Udemy](https://www.udemy.com/) (courses often availabe on discount for $10)
+... ... There is a lot of stuff on Udemy, and sometimes hard to pick the right course. If in doubt, the attendees warmly recommended courses by [Colt Steele](https://www.udemy.com/user/coltsteele/). 
 
-Degrees and bootcamps:
+... Paid subcriptions to level up (often employers have subcriptions to these):
+... * [Pluralsight](https://www.pluralsight.com/) (sometimes have free weekend promotions, professional developers swear by the quality of these videos)
+... * [FrontendMasters](https://frontendmasters.com/) (special recommendation for courses by Will Sentance - some of his talks also available on YouTube)
 
-Some of us want the flexibility of learning online, but need more structure and some deadlines to get us focused - and are ready to pay for it. Examples of what people at the meetup are doing:
+... Degrees and bootcamps:
+... Some of us want the flexibility of learning online, but need more structure and some deadlines to get us focused - and are ready to pay for it. Examples of what people at the meetup are doing:
+... * [Code Institute](https://codeinstitute.net/) (An online fullstack development bootcamp)
+... * [Online University Degree in Computer Science](https://www.coursera.org/degrees/computer-science) (Coursera offers online courses and degrees in partnership with universities, both bachelors and masters options exist). 
 
-A structured bootcamp with a syllabus and deadlines
+2. **In-person educations**
 
-A more slow, but broader approach to general computer science education is available in form of online university degrees, like the Bachelor of Science in Computer Science by University of London in collaboration with Coursera.
+... Some bootcamps and short courses are also available in Zagreb. We had attendees who tried: 
+... * [Algebra](https://www.algebra.hr/certifikacijski-seminari/) (apart from their degree programs, Algebra also has shorter certification courses in Zagreb)
+... * [Smart Ninja](https://www.smartninja.hr/) (coding bootcamp in Zagreb)
 
-2. In-person educations
+... Or bootcamps abroad? 
+... * [Le Wagon](https://www.lewagon.com/) (Le Wagon offers immersive fullstack bootcamps in many European cities, if you are not tied to Zagreb)
 
-Some bootcamps and short courses are also available in Zagreb. We had attendees who tried: 
-Algebra....
-Code Ninja...
+... Sponsored incubators
+... * [Pismo](http://inkubator-pismo.eu/) (In Novska, incubator for learning how to program computer games)
+... * Some employer-sponsored incubators exist. If any concrete examples, please share, otherwise keep an eye out! 
 
-Or bootcamps abroad? 
-Le Wagon has bootcamps in many European cities, if you are not tied to Zagreb. 
 
-Company-sponsored training
-Nobody at our meetup tried this, but it was mentioned as an option 
-Novska
-
-3. Learning on the job
+3. **Learning on the job**
 
 There's no learning like learning on the job. Often we do not get to pick our first job, but discussed differences between experiences in startups and larger companies. 
 
@@ -52,7 +57,7 @@ In a startup you are more likely to have to figure things out on your own, and b
 
 In larger companies, things are more structured, you may get the opportunity to work with a mentor and learn from them. And then after you've worked on your first project, move to a different one, with a different technology. Use your mentor wisely, it is an invaluable resource. 
 
-4. Learning by doing (your own projects)
+4. **Learning by doing (your own projects)**
 
 The advice we have heard over and over again from the experienced programmers in the group - find something you want to build, and build it. While tutorials are a good way to start, you are not a programmer until you have programmed something of your own, without following step-by-step guides. It may seem daunting, but this is the way to build your portfolio that you will show to your future employers. 
 
