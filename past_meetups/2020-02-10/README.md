@@ -14,8 +14,8 @@ Overall a very interesting and colorful group of individuals. We had not one, bu
 
 1. **Online resources**
 
-... Free and easy introductions for complete beginners were mentioned:   
-... * [FreeCodeCamp](https://www.freecodecamp.org/) (HTML, CSS, JavaScript)
+...Free and easy introductions for complete beginners were mentioned:   
+..* [FreeCodeCamp](https://www.freecodecamp.org/) (HTML, CSS, JavaScript)
 ... * [CodeAcademy](https://www.codecademy.com/) (Python was mentioned, there's other languages also. Some content free, some paid)
 ... * Youtube tutorials (no concrete courses were mentioned, but if you have some you really enjoyed, please do share)
 ... * [Harward's Introduction to Computer Science](https://cs50.harvard.edu/x/2020/) (this one is not the easiest introduction course, but it's worth it based on the stellar reviews it gets)
