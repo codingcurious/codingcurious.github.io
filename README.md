@@ -15,7 +15,7 @@ Join our [meetup group](https://www.meetup.com/Coding-Curious)!
   |1| [First Coffee with Coding Curious](https://www.meetup.com/Coding-Curious/events/268291429/)| Feb 10, 2010  | [Link to notes](past-meetups/2020-02-10) | 
 </details>
 
-## Resoucre Collections
+## Resource Collections
 ## Website
 We are hosting a website through GitHub Pages: http://www.codingcurious.xyz/ (under construction)  
 
