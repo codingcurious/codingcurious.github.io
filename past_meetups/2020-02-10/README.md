@@ -1,8 +1,8 @@
 # First Coffee With Coding Curious #
 
-Date: February 10, 2010  
-Location: Quahwa  
-Attendees: 10  
+*Date:* February 10, 2010  
+*Location:* Quahwa  
+*Attendees:* 10  
 
 Our first meetup was a casual introduction and chat, where we heard different paths people have taken in their learning journey.  
 
@@ -14,7 +14,7 @@ Overall a very interesting and colorful group of individuals. We had not one, bu
 
 1. **Online resources**
 
-   Free and easy introductions for complete beginners were mentioned:   
+Free and easy introductions for complete beginners were mentioned:   
   * [FreeCodeCamp](https://www.freecodecamp.org/) (HTML, CSS, JavaScript)  
   * [CodeAcademy](https://www.codecademy.com/) (Python was mentioned, there's other languages also. Some content free, some paid)  
   * Youtube tutorials (no concrete courses were mentioned, but if you have some you really enjoyed, please do share)  
@@ -22,29 +22,34 @@ Overall a very interesting and colorful group of individuals. We had not one, bu
          - first lesson of CS50 includes intro to the playful [Scratch](https://scratch.mit.edu/) platform by MIT
   * [Teach Yourself Computer Science](https://teachyourselfcs.com/) (a collection of free online books and videos for those who are interested in a broader computer science knowledge base than pure programming)  
 
-   Not free, but often very cheap:  
+
+Not free, but often very cheap:  
   * [Udemy](https://www.udemy.com/) (courses often availabe on discount for $10)  
          There is a lot of stuff on Udemy, and sometimes hard to pick the right course. If in doubt, the attendees warmly recommended courses by [Colt Steele](https://www.udemy.com/user/coltsteele/).  
 
-   Paid subcriptions to level up (often employers have subcriptions to these):  
+
+Paid subcriptions to level up (often employers have subcriptions to these):  
   * [Pluralsight](https://www.pluralsight.com/) (sometimes have free weekend promotions, professional developers swear by the quality of these videos)  
   * [FrontendMasters](https://frontendmasters.com/) (special recommendation for courses by Will Sentance - some of his talks also available on YouTube)  
 
-... Degrees and bootcamps:
-... Some of us want the flexibility of learning online, but need more structure and some deadlines to get us focused - and are ready to pay for it. Examples of what people at the meetup are doing:
-... * [Code Institute](https://codeinstitute.net/) (An online fullstack development bootcamp)
-... * [Online University Degree in Computer Science](https://www.coursera.org/degrees/computer-science) (Coursera offers online courses and degrees in partnership with universities, both bachelors and masters options exist). 
+
+Degrees and bootcamps:
+  * Some of us want the flexibility of learning online, but need more structure and some deadlines to get us focused - and are ready to pay for it. Examples of what people at the meetup are doing:
+  * [Code Institute](https://codeinstitute.net/) (An online fullstack development bootcamp)
+  * [Online University Degree in Computer Science](https://www.coursera.org/degrees/computer-science) (Coursera offers online courses and degrees in partnership with universities, both bachelors and masters options exist). 
 
 2. **In-person educations**
 
-   Some bootcamps and short courses are also available in Zagreb. We had attendees who tried:  
+Some bootcamps and short courses are also available in Zagreb. We had attendees who tried:  
   * [Algebra](https://www.algebra.hr/certifikacijski-seminari/) (apart from their degree programs, Algebra also has shorter certification courses in Zagreb)  
   * [Smart Ninja](https://www.smartninja.hr/) (coding bootcamp in Zagreb)  
 
-   Or bootcamps abroad?  
+
+Or bootcamps abroad?  
   * [Le Wagon](https://www.lewagon.com/) (Le Wagon offers immersive fullstack bootcamps in many European cities, if you are not tied to Zagreb)  
 
-   Sponsored incubators
+
+Sponsored incubators
   * [Pismo](http://inkubator-pismo.eu/) (In Novska, incubator for learning how to program computer games)
   * Some employer-sponsored incubators exist. If any concrete examples, please share, otherwise keep an eye out! 
 
