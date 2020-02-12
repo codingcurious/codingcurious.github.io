@@ -33,8 +33,7 @@ Paid subcriptions to level up (often employers have subcriptions to these):
   * [FrontendMasters](https://frontendmasters.com/) (special recommendation for courses by Will Sentance - some of his talks also available on YouTube)  
 
 
-Degrees and bootcamps:
-  * Some of us want the flexibility of learning online, but need more structure and some deadlines to get us focused - and are ready to pay for it. Examples of what people at the meetup are doing:
+Online bootcamps and degrees:
   * [Code Institute](https://codeinstitute.net/) (An online fullstack development bootcamp)
   * [Online University Degree in Computer Science](https://www.coursera.org/degrees/computer-science) (Coursera offers online courses and degrees in partnership with universities, both bachelors and masters options exist). 
 
