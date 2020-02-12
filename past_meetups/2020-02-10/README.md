@@ -1,4 +1,4 @@
-#First Coffee With Coding Curious#
+# First Coffee With Coding Curious #
 
 Date: February 10, 2010
 Location: Quahwa
@@ -6,11 +6,11 @@ Attendees: 10
 
 Our first meetup was a casual introduction and chat, where we heard different paths people have taken in their learning journey. 
 
-##So, who attended?##
+## So, who attended? ##
 
 Overall a very interesting and colorful group of individuals. We had not one, but *two* forrestry engineers, several economists, and a combination of transportation engineers, journalists, fitness trainers, entrepreneurs, and even - believe it or not - software engineers. Some are just starting, some are already working as programmers, and some already have decades of experience. But all with one thing in common - always learning and wanting to learn more. 
 
-##How are people learning?##
+## How are people learning? ##
 
 1. Online resources
 
@@ -56,7 +56,7 @@ In larger companies, things are more structured, you may get the opportunity to 
 
 The advice we have heard over and over again from the experienced programmers in the group - find something you want to build, and build it. While tutorials are a good way to start, you are not a programmer until you have programmed something of your own, without following step-by-step guides. It may seem daunting, but this is the way to build your portfolio that you will show to your future employers. 
 
-##What's next?##
+## What's next? ##
 
 This repository will serve as a collection of notes, ideas, plans, for the group. 
 The idea behind this group is for everyone who has an idea on how to make it useful - to implement the idea! Not every meetup will be interesting to everyone, but if you are interested in something, one thing is certain - there's at least a few other people who will be interested in that same thing. So reach out and find them here. 
@@ -73,10 +73,8 @@ There's a conference with online live stream you think would be interesting? Let
 
 You know an organizations who'd like to sponsor a meetup session to promote their school/company? Send them our way. 
 
-##Did I miss anything?##
+## Did I miss anything? ##
 
-These notes, same as this whole repository is meant to be a collaborative effort. If you have anything to add or correct, join our repository and create issues / pull requests. 
-
-If you have any advice for me, please feel free to openly let me know. I have not been running group repositories before, and I am sure I am doing many things all wrong - I'm very open to constructive feedback. 
+These notes, same as this whole repository is meant to be a collaborative effort. If you have anything to add or correct, join our repository and create issues / pull requests. If you have any advice for me, please feel free to openly let me know. I have not been running group repositories before, and I am sure I am doing many things all wrong - I'm very open to constructive feedback. 
 
 Code, learn, have fun, and see you at our next meetup!
