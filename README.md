@@ -12,7 +12,7 @@ Join our [meetup group](https://www.meetup.com/Coding-Curious)!
   
   |#| Meetup | Date | Notes | 
   |---|---|---|---|
-  |1| [First Coffee with Coding Curious](https://www.meetup.com/Coding-Curious/events/268291429/)| Feb 10, 2010  | [Link to notes](past-meetups/2020-02-10) | 
+  |1| [First Coffee with Coding Curious](https://www.meetup.com/Coding-Curious/events/268291429/)| Feb 10, 2010  | [Link to notes](past_meetups/2020-02-10) | 
 </details>
 
 ## Resource Collections
